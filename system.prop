@@ -3,7 +3,7 @@ audio.deep_buffer.media=true
 ro.config.media_vol_steps=25
 ro.config.vc_call_vol_steps=7
 
-# Enable ADB authentication
+# ADB
 ro.adb.secure=1
 
 # Perf
@@ -12,5 +12,5 @@ ro.vendor.qti.sys.fw.bg_apps_limit=60
 # RIL
 ro.telephony.isHisiRIL=true
 
-# Disable statsd
+# Sdcard
 ro.statsd.enable=false
