@@ -22,10 +22,6 @@ ro.vendor.qti.sys.fw.bg_apps_limit=60
 persist.sys.radio.huawei=true
 
 # Sdcard
-persist.fw.force_adoptable=true
-persist.sys.usb.config=manufacture,adb
-sys.usb.configfs=1
-sys.usb.controller=hisi-usb-otg
 ro.statsd.enable=false
 ro.sys.sdcardfs=1
 
