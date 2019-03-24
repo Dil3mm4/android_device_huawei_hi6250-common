@@ -13,7 +13,7 @@ persist.sys.camera.huawei=true
 ro.vendor.qti.sys.fw.bg_apps_limit=60
 
 # RIL
-ro.telephony.isHisiRIL=true
+persist.sys.radio.huawei=true
 
 # Sdcard
 ro.statsd.enable=false
