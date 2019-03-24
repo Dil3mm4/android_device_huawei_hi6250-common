@@ -23,3 +23,6 @@ sys.usb.controller=hisi-usb-otg
 ro.statsd.enable=false
 ro.sys.sdcardfs=1
 
+# Security Patches
+ro.build.version.security_patch_sys=2019-03-05
+
